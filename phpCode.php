@@ -1,5 +1,5 @@
 <?php
 
-print "Helloo world!\n" ;
+echo "Helloo world!\n" ;
 
 ?>
